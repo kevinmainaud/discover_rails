@@ -1,24 +1,50 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Made with <3 and :
 
-Things you may want to cover:
+o A good breakfast
+o A lot of coffees
+o A great team 
+o A late closing library and less hours of sleep
 
-* Ruby version
 
-* System dependencies
+For this application, you will need : 
 
-* Configuration
+o Ruby 
+o Rails 
 
-* Database creation
+When you downloaded the project, just do "bundle install" to set up the different gems and get started !
 
-* Database initialization
 
-* How to run the test suite
+This is our first website built with Ruby on Rails and based on a MVC model and dynamic pages.
 
-* Services (job queues, cache servers, search engines, etc.)
+It will then be organised in different parts:  
 
-* Deployment instructions
+o routes modul :  get the user input
 
-* ...
+o controller modul : will be the main object connecting the user's input, the database and the frontend.
+
+
+Mains exercices : 
+
+Static Page
+1. Create a Rails App
+2. Pimp the view on CSS
+3. Create different pages
+
+Dynamic pages with backend program: 
+
+1. Create a database
+2. Create the web pages
+3. Seed the database 
+4. Link the database with the frontend pages by defining a profile page for each user
+
+
+
+
+
+Objective of this training : 
+
+- Discover Ruby on Rails 
+
+- Be able to use Ruby on Rails to set up web applications with the frontend and backend part
